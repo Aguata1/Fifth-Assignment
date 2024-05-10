@@ -1,0 +1,11 @@
+#nav1{
+    background-image: url(keybordimage.jpg);
+}
+
+h1{
+    font-size: 4rem;
+}
+li{
+    max-width: 500px;
+    padding: 10px;
+}
